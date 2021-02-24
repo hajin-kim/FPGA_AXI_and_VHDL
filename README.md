@@ -10,8 +10,8 @@ Device: xc7z020clg484-1
 
 ### FPGA AXI and VHDL
 
-[AXI and VHDL DoGain](AXI and VHDL DoGain.md)  
-[AXI and VHDL Simple Multiplier](AXI and VHDL Simple Multiplier.md)  
+[AXI and VHDL DoGain](AXI%20and%20VHDL%20DoGain.md)  
+[AXI and VHDL Simple Multiplier](AXI%20and%20VHDL%20Simple%20Multiplier.md)  
 
 ### FPGA Tiny CPU
 
