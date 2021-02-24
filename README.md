@@ -11,10 +11,10 @@ Device: xc7z020clg484-1
 
 ---
 
-### (Previous) -1- FPGA Tutorial with HLS
+#### (Previous) -1- FPGA Tutorial with HLS
 
 [https://github.com/hajin-kim/FPGA_Tutorial_with_HLS](https://github.com/hajin-kim/FPGA_Tutorial_with_HLS)  
 
-### (Next) -3- FPGA Tiny CPU
+#### (Next) -3- FPGA Tiny CPU
 
 [https://github.com/hajin-kim/FPGA_Tiny_CPU](https://github.com/hajin-kim/FPGA_Tiny_CPU)  
