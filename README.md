@@ -5,9 +5,9 @@ Undergraduate internship Dec. 2020 ~ Feb. 2021
 [Accelerated Computing Systems Lab](http://acsys.yonsei.ac.kr/) affiliated with CS, Yonsei University, South Korea.  
 Device: xc7z020clg484-1  
 
-[AXI and VHDL DoGain](AXI%20and%20VHDL%20DoGain.md)  
-[AXI Dogain srcs](https://github.com/hajin-kim/FPGA_AXI_and_VHDL/tree/main/AXI%20Dogain%20srcs)  
 [AXI and VHDL Simple Multiplier](AXI%20and%20VHDL%20Simple%20Multiplier.md)  
+[AXI Dogain srcs](https://github.com/hajin-kim/FPGA_AXI_and_VHDL/tree/main/AXI%20Dogain%20srcs)  
+[AXI and VHDL DoGain](AXI%20and%20VHDL%20DoGain.md)  
 
 ---
 
